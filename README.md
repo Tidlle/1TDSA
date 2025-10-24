@@ -11,5 +11,5 @@ A estrutura do repositório segue a ordem das atividades e projetos realizados n
 Para rodar os projetos ou ver os códigos, clone o repositório e siga as instruções específicas para cada projeto (que serão adicionadas conforme o repositório for sendo atualizado).
 
 ```bash
-git clone https://github.com/AndreColombo/1TDSA.git
+git clone https://github.com/Tidlle/1TDSA.git
 ```
